@@ -1,0 +1,9 @@
+kafka-get-offsets --topic uber-events --bootstrap-server kafkabroker-1:29092
+
+kafka-consumer-groups --bootstrap-server localhost:29092 --group events-group --describe
+
+kafka-topics --bootstrap-server localhost:29092 --topic uber-events --describe
+
+kafka-topics --bootstrap-server localhost:29092 --create --topic uber-events --partitions 2 --replication-factor 2
+
+kafka-topics --bootstrap-server localhost:29092 --delete --topic uber-events

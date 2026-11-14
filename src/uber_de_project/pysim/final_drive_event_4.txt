@@ -1,0 +1,2940 @@
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_3802fbcc59f2",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:01Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.9245,
+    "longitude": 72.865623,
+    "speed_kmh": 22.5,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_9a530a3c942e",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:01Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.068354,
+    "longitude": 72.785103,
+    "speed_kmh": 14.62,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_1f6f2b67d46d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:01Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.629828,
+    "longitude": 73.949911,
+    "speed_kmh": 29.62,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_7e55ae693fa7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:01Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.505428,
+    "longitude": 77.272247,
+    "speed_kmh": 17.41,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_29ee3cc70676",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:01Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 13.024005,
+    "longitude": 77.637694,
+    "speed_kmh": 17.31,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_b4fd9b534fc0",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:07Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.925803,
+    "longitude": 72.864665,
+    "speed_kmh": 21.75,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_8f82bcd22008",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:07Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.06797,
+    "longitude": 72.785043,
+    "speed_kmh": 28.21,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_bf38afe8a5a9",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:07Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.628924,
+    "longitude": 73.950565,
+    "speed_kmh": 23.96,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_9eceb8ac6286",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:07Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.504854,
+    "longitude": 77.272216,
+    "speed_kmh": 12.93,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_e871d9ea0059",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:07Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 13.0243,
+    "longitude": 77.636455,
+    "speed_kmh": 24.6,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_c592ff05ef04",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:13Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.926543,
+    "longitude": 72.864319,
+    "speed_kmh": 2.01,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_d9a8626a0146",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:13Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.069818,
+    "longitude": 72.785077,
+    "speed_kmh": 6.31,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_dac25d88bfc6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:13Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.628424,
+    "longitude": 73.949068,
+    "speed_kmh": 8.13,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_ed8be68c76cc",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:13Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.50583,
+    "longitude": 77.271355,
+    "speed_kmh": 1.15,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_63b972d1673b",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:13Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 13.02304,
+    "longitude": 77.635793,
+    "speed_kmh": 9.23,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_5da7324e573e",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:19Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927843,
+    "longitude": 72.864759,
+    "speed_kmh": 8.32,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_1cacd1e358ad",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:19Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.070396,
+    "longitude": 72.784014,
+    "speed_kmh": 13.42,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_177ae4b97a12",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:19Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.627975,
+    "longitude": 73.948216,
+    "speed_kmh": 29.11,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_5688db2a1e42",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:19Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.506865,
+    "longitude": 77.272329,
+    "speed_kmh": 29.43,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_c37095d9eaed",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:19Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 13.022718,
+    "longitude": 77.63468,
+    "speed_kmh": 21.28,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_af96c67be5f3",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:26Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.928277,
+    "longitude": 72.865784,
+    "speed_kmh": 24.87,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_a706baa88c2f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:26Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.070363,
+    "longitude": 72.782503,
+    "speed_kmh": 14.14,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_f3a8ef3b0431",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:26Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.626641,
+    "longitude": 73.947175,
+    "speed_kmh": 12.9,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_c9dcc3d32ae3",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:26Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.506281,
+    "longitude": 77.272041,
+    "speed_kmh": 26.22,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_af4276b2616a",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:26Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 13.022219,
+    "longitude": 77.636052,
+    "speed_kmh": 1.24,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_0799da8fcd29",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:32Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.928524,
+    "longitude": 72.86497,
+    "speed_kmh": 23.61,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_dd9378bce2dd",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:32Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.070358,
+    "longitude": 72.780653,
+    "speed_kmh": 15.22,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_fab4ea9c38db",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:32Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.627884,
+    "longitude": 73.946173,
+    "speed_kmh": 29.98,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_b53d01ea56d8",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:32Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.505487,
+    "longitude": 77.272726,
+    "speed_kmh": 28.09,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_9d1ee55050b6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:32Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 13.01286,
+    "longitude": 77.626079,
+    "speed_kmh": 25.58,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_b168342b2a72",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:38Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927095,
+    "longitude": 72.865732,
+    "speed_kmh": 25.69,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_12426fe2b809",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:38Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.06943,
+    "longitude": 72.779416,
+    "speed_kmh": 29.89,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_92d3e9cea027",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:38Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.627336,
+    "longitude": 73.9457,
+    "speed_kmh": 15.04,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_c7c65ba5a650",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:38Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.503398,
+    "longitude": 77.271958,
+    "speed_kmh": 8.3,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_2d4cdbf7c93e",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:38Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.99786,
+    "longitude": 77.611079,
+    "speed_kmh": 35.87,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_6ec143592f01",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:44Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927484,
+    "longitude": 72.865888,
+    "speed_kmh": 11.57,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_18de5f340f89",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:44Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.068316,
+    "longitude": 72.778533,
+    "speed_kmh": 7.81,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_a32e7326bb0d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:44Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.62601,
+    "longitude": 73.945733,
+    "speed_kmh": 28.58,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_448089b5dcad",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:44Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.504801,
+    "longitude": 77.271768,
+    "speed_kmh": 25.45,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_8821178b13f5",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:44Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.98286,
+    "longitude": 77.596079,
+    "speed_kmh": 12.99,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_bb3882749dd2",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:50Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927618,
+    "longitude": 72.86448,
+    "speed_kmh": 26.76,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_cd379059d40f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:50Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.068246,
+    "longitude": 72.779067,
+    "speed_kmh": 21.43,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_86de0ab45d82",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:50Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.627538,
+    "longitude": 73.944857,
+    "speed_kmh": 1.7,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_e68a6d747f48",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:50Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.514301,
+    "longitude": 77.262004,
+    "speed_kmh": 33.78,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_c4e3a52382b3",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:50Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.96786,
+    "longitude": 77.581079,
+    "speed_kmh": 17.34,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_dd31b7a62156",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:56Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927412,
+    "longitude": 72.864194,
+    "speed_kmh": 2.49,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_c48b51fec314",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:56Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.066557,
+    "longitude": 72.777995,
+    "speed_kmh": 3.38,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_bc89dedc2c89",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:56Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.626308,
+    "longitude": 73.946748,
+    "speed_kmh": 1.43,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_57e6ccf7403d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:56Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.529301,
+    "longitude": 77.247004,
+    "speed_kmh": 34.74,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_edee9c147eb8",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:13:56Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.95286,
+    "longitude": 77.566079,
+    "speed_kmh": 33.36,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_9f054e97b751",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:02Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927482,
+    "longitude": 72.864463,
+    "speed_kmh": 27.75,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_51c852e21b34",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:02Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.065598,
+    "longitude": 72.778183,
+    "speed_kmh": 16.59,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_6434cd65ccb1",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:02Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.625919,
+    "longitude": 73.945463,
+    "speed_kmh": 1.32,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_6e4fa875bdc7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:02Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.544301,
+    "longitude": 77.232004,
+    "speed_kmh": 13.88,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_c95bed808de3",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:02Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.93786,
+    "longitude": 77.551079,
+    "speed_kmh": 38.29,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_d4cd58f3725d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:08Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.929137,
+    "longitude": 72.864616,
+    "speed_kmh": 16.66,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_137872768adc",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:08Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.066019,
+    "longitude": 72.779679,
+    "speed_kmh": 6.3,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_1ac65d12a5ee",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:08Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.627679,
+    "longitude": 73.946438,
+    "speed_kmh": 16.81,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_7af883571936",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:08Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.559301,
+    "longitude": 77.217004,
+    "speed_kmh": 29.43,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_3ecedda6af81",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:08Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.92286,
+    "longitude": 77.536079,
+    "speed_kmh": 18.36,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_9e5de0d88b5d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:14Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.930652,
+    "longitude": 72.865186,
+    "speed_kmh": 0.44,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_e7d3e2f06ae2",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:14Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.06534,
+    "longitude": 72.780746,
+    "speed_kmh": 2.03,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_c176cd345961",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:14Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.628296,
+    "longitude": 73.946466,
+    "speed_kmh": 10.1,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_7673bc6e3771",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:14Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.574301,
+    "longitude": 77.202004,
+    "speed_kmh": 13.83,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_325df448a6b9",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:14Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.915192,
+    "longitude": 77.521079,
+    "speed_kmh": 21.49,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_c477310d5c62",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:20Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.93098,
+    "longitude": 72.867085,
+    "speed_kmh": 10.33,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_3c28b00d8e83",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:20Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.06507,
+    "longitude": 72.779654,
+    "speed_kmh": 14.88,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_e6e478177f38",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:20Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.629711,
+    "longitude": 73.946521,
+    "speed_kmh": 19.65,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_694b86e45611",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:20Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.589301,
+    "longitude": 77.187004,
+    "speed_kmh": 36.28,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_171a0ef654de",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:20Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.915192,
+    "longitude": 77.509919,
+    "speed_kmh": 24.9,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_6a111fb67ab6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:26Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.929487,
+    "longitude": 72.866229,
+    "speed_kmh": 16.42,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_a983eee300ab",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:26Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.066797,
+    "longitude": 72.780632,
+    "speed_kmh": 1.31,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_9374b2274ac4",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:26Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.629665,
+    "longitude": 73.94623,
+    "speed_kmh": 27.03,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_85e075ea144f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:26Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.604301,
+    "longitude": 77.172004,
+    "speed_kmh": 20.63,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_f9869a728c4f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:26Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.923712,
+    "longitude": 77.524919,
+    "speed_kmh": 25.74,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_2c14ab7a37e7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:32Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.930975,
+    "longitude": 72.867249,
+    "speed_kmh": 26.55,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_6f2285603db2",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:32Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.065112,
+    "longitude": 72.781078,
+    "speed_kmh": 27.24,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_1b45eaf845a8",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:32Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.629416,
+    "longitude": 73.946963,
+    "speed_kmh": 12.01,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_2009870b9a12",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:32Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.619301,
+    "longitude": 77.157004,
+    "speed_kmh": 22.72,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_b4cfb778ad99",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:32Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.923712,
+    "longitude": 77.539919,
+    "speed_kmh": 47.69,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_30dbb55b1e34",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:38Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.929681,
+    "longitude": 72.867406,
+    "speed_kmh": 13.5,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_ec95b492e501",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:38Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.065456,
+    "longitude": 72.780659,
+    "speed_kmh": 12.77,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_afe2fc2e201f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:38Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.628647,
+    "longitude": 73.94714,
+    "speed_kmh": 19.18,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_4fcbe6e38c61",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:38Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.634301,
+    "longitude": 77.142004,
+    "speed_kmh": 19.97,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_b4bb439f86a7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:38Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.923712,
+    "longitude": 77.546879,
+    "speed_kmh": 13.7,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_66319f5fd8bc",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:44Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.931069,
+    "longitude": 72.866923,
+    "speed_kmh": 26.5,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_398a00f8ea0d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:44Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.075448,
+    "longitude": 72.79094,
+    "speed_kmh": 10.93,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_fe08275994db",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:44Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.627558,
+    "longitude": 73.947651,
+    "speed_kmh": 20.89,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_dcafb9bd6d53",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:44Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.649301,
+    "longitude": 77.127004,
+    "speed_kmh": 28.26,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_c978598e9393",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:44Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_a5abb2e1a225",
+    "city": "Bangalore",
+    "latitude": 12.923712,
+    "longitude": 77.546879,
+    "speed_kmh": 37.26,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_042276fdccbd",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:51Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.931141,
+    "longitude": 72.866202,
+    "speed_kmh": 25.21,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_0f1c08f102fb",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:51Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.090448,
+    "longitude": 72.80594,
+    "speed_kmh": 35.41,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_43531d978092",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:51Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.628139,
+    "longitude": 73.947589,
+    "speed_kmh": 25.7,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_4ad160b39342",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:51Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.664301,
+    "longitude": 77.112004,
+    "speed_kmh": 49.57,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_0c803a81ab7f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:51Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.923258,
+    "longitude": 77.545774,
+    "speed_kmh": 28.4,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_5b45c486bb5b",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:57Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.93191,
+    "longitude": 72.865302,
+    "speed_kmh": 19.84,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_3136503cde61",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:57Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.105448,
+    "longitude": 72.82094,
+    "speed_kmh": 15.77,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_3f4b2b8158a6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:57Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.628348,
+    "longitude": 73.947452,
+    "speed_kmh": 7.39,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_fa5ac36340da",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:57Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.679301,
+    "longitude": 77.097004,
+    "speed_kmh": 41.34,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_19fe2a40a8d6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:14:57Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.924997,
+    "longitude": 77.545827,
+    "speed_kmh": 15.42,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_8d87c3dbe7a6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:03Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.932454,
+    "longitude": 72.866584,
+    "speed_kmh": 9.52,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_ae85cd932ae6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:03Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.120448,
+    "longitude": 72.83594,
+    "speed_kmh": 20.48,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_a8daeeba484a",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:03Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.627981,
+    "longitude": 73.946527,
+    "speed_kmh": 18.37,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_9f2c5616d327",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:03Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.694301,
+    "longitude": 77.082004,
+    "speed_kmh": 31.51,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_2e4c72ee408b",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:03Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.924763,
+    "longitude": 77.545618,
+    "speed_kmh": 13.62,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_2b2ece9fb405",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:09Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.932449,
+    "longitude": 72.866176,
+    "speed_kmh": 7.51,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_e7ca6a2807f6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:09Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.135448,
+    "longitude": 72.85094,
+    "speed_kmh": 41.22,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_8040c15f97bf",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:09Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.622954,
+    "longitude": 73.942261,
+    "speed_kmh": 12.11,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_7a52f252b430",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:09Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.709301,
+    "longitude": 77.067004,
+    "speed_kmh": 15.59,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_6fcc4592a32d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:09Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.923985,
+    "longitude": 77.546957,
+    "speed_kmh": 5.06,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_f05d5a504199",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:15Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.932022,
+    "longitude": 72.865036,
+    "speed_kmh": 29.88,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_3731dd2a6c00",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:15Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.150448,
+    "longitude": 72.86594,
+    "speed_kmh": 13.22,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_638258cb0145",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:15Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.607954,
+    "longitude": 73.927261,
+    "speed_kmh": 18.97,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_f86819582833",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:15Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.72091,
+    "longitude": 77.052004,
+    "speed_kmh": 17.94,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_74a8dd80a02b",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:15Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.925005,
+    "longitude": 77.547644,
+    "speed_kmh": 13.38,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_7cdc28597521",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:21Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.932367,
+    "longitude": 72.864899,
+    "speed_kmh": 6.7,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_12ac0f3bfd18",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:21Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.157445,
+    "longitude": 72.88094,
+    "speed_kmh": 20.65,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_e5baf8c67936",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:21Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.592954,
+    "longitude": 73.912261,
+    "speed_kmh": 31.13,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_b599f838aee7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:21Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.72091,
+    "longitude": 77.037004,
+    "speed_kmh": 33.43,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_5d9cedcd8dac",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:21Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.924444,
+    "longitude": 77.547228,
+    "speed_kmh": 13.37,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_1ae5a8a8fd6f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:27Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.931719,
+    "longitude": 72.866519,
+    "speed_kmh": 27.57,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_88513ff6a295",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:27Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.157445,
+    "longitude": 72.89594,
+    "speed_kmh": 13.68,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_8055171aacdb",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:27Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.577954,
+    "longitude": 73.905833,
+    "speed_kmh": 46.75,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_bc43ec9502a6",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:27Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.72091,
+    "longitude": 77.022004,
+    "speed_kmh": 45.53,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_b9701777017e",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:27Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.923742,
+    "longitude": 77.547893,
+    "speed_kmh": 5.5,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_c42f01d2097b",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:33Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.929834,
+    "longitude": 72.867382,
+    "speed_kmh": 1.22,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_142fc0bbff98",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:33Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.157445,
+    "longitude": 72.91094,
+    "speed_kmh": 17.88,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_e3ab7032e212",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:33Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.562954,
+    "longitude": 73.905833,
+    "speed_kmh": 47.5,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_598bb0823faa",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:33Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.72091,
+    "longitude": 77.007004,
+    "speed_kmh": 16.42,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_2c61cdc31e88",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:33Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.922911,
+    "longitude": 77.54579,
+    "speed_kmh": 5.53,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_4154bb0f1c0a",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:39Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.930855,
+    "longitude": 72.867728,
+    "speed_kmh": 24.17,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_e1d23f414aa1",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:39Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.162445,
+    "longitude": 72.916353,
+    "speed_kmh": 10.56,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_35a26f9b51dc",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:39Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.547954,
+    "longitude": 73.905833,
+    "speed_kmh": 40.2,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_4a6f219aeec5",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:39Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.72091,
+    "longitude": 76.992004,
+    "speed_kmh": 25.44,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_153de901bdac",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:39Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.916188,
+    "longitude": 77.54968,
+    "speed_kmh": 17.29,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_48616458179d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:45Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.931218,
+    "longitude": 72.866161,
+    "speed_kmh": 24.51,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_f86c0be1e027",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:45Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.177445,
+    "longitude": 72.901353,
+    "speed_kmh": 42.9,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_950329c8f523",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:45Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.532954,
+    "longitude": 73.905833,
+    "speed_kmh": 21.61,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_777fe94a3484",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:45Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.72091,
+    "longitude": 76.977004,
+    "speed_kmh": 47.9,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_ea517847f90f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:45Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.912044,
+    "longitude": 77.56468,
+    "speed_kmh": 20.43,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_85d3adf097ec",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:51Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.930205,
+    "longitude": 72.865725,
+    "speed_kmh": 15.17,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_8b2427ac7510",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:51Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.187867,
+    "longitude": 72.886353,
+    "speed_kmh": 18.35,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_4b1c320f93a1",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:51Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.491162,
+    "longitude": 73.915833,
+    "speed_kmh": 23.14,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_f37002e4181e",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:51Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.73091,
+    "longitude": 76.973321,
+    "speed_kmh": 38.79,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_af59b2fda8c4",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:51Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.912044,
+    "longitude": 77.57968,
+    "speed_kmh": 25.39,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_2e11a88aabda",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:57Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.92904,
+    "longitude": 72.867084,
+    "speed_kmh": 22.02,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_d3de3ae14147",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:57Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.187867,
+    "longitude": 72.871353,
+    "speed_kmh": 29.43,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_16306bb22b14",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:57Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.506162,
+    "longitude": 73.930833,
+    "speed_kmh": 16.79,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_2803dcc3be13",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:57Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.74591,
+    "longitude": 76.973321,
+    "speed_kmh": 24.4,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_c6f613851489",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:15:57Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.912044,
+    "longitude": 77.59468,
+    "speed_kmh": 12.76,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_75bc1568198e",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:03Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.928989,
+    "longitude": 72.865584,
+    "speed_kmh": 24.21,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_793b74a6d9ed",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:03Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.187867,
+    "longitude": 72.856353,
+    "speed_kmh": 42.6,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_7aa7a4956100",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:03Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.517602,
+    "longitude": 73.932109,
+    "speed_kmh": 26.73,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_eb59000cb198",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:03Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.799148,
+    "longitude": 76.973321,
+    "speed_kmh": 23.87,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_ae5ab2e3fb5b",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:03Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.912044,
+    "longitude": 77.60968,
+    "speed_kmh": 29.29,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_745f227260d5",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:09Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.929223,
+    "longitude": 72.865378,
+    "speed_kmh": 28.53,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_ad3e2cb5ebe7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:09Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.187867,
+    "longitude": 72.841353,
+    "speed_kmh": 37.67,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_e15a28784a72",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:09Z",
+    "driver_id": "driver_2003",
+    "ride_id": "ride_f70f73f9e4bb",
+    "city": "Pune",
+    "latitude": 18.517602,
+    "longitude": 73.932109,
+    "speed_kmh": 31.33,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_dba8aa8d4cd3",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:09Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.799148,
+    "longitude": 76.973321,
+    "speed_kmh": 27.71,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_6e7d7d2983a4",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:09Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.912044,
+    "longitude": 77.62468,
+    "speed_kmh": 34.3,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_ffc1dbba85dc",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:15Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927161,
+    "longitude": 72.865438,
+    "speed_kmh": 19.96,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_dfa2ded406a2",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:15Z",
+    "driver_id": "driver_2002",
+    "ride_id": "ride_0c7acb30ee31",
+    "city": "Mumbai",
+    "latitude": 19.187867,
+    "longitude": 72.826353,
+    "speed_kmh": 40.78,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_2794726fd8bc",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:15Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.517466,
+    "longitude": 73.933379,
+    "speed_kmh": 13.76,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_d67f07063abf",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:15Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_0eb615eef293",
+    "city": "Delhi",
+    "latitude": 28.799148,
+    "longitude": 76.973321,
+    "speed_kmh": 48.53,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_7b97a5035941",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:15Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.912044,
+    "longitude": 77.63968,
+    "speed_kmh": 31.83,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_32ab99ac1102",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:21Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.926156,
+    "longitude": 72.866015,
+    "speed_kmh": 17.03,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_91b2dcb88a69",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:21Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.188938,
+    "longitude": 72.820607,
+    "speed_kmh": 28.84,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_ce30456f392c",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:21Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.518871,
+    "longitude": 73.934307,
+    "speed_kmh": 19.2,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_a999b08e8c05",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:21Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_38339fa62c19",
+    "city": "Delhi",
+    "latitude": 28.789148,
+    "longitude": 76.983321,
+    "speed_kmh": 45.37,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_e467564f5882",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:21Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.917044,
+    "longitude": 77.652467,
+    "speed_kmh": 37.77,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_6286ba80a133",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:27Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.926576,
+    "longitude": 72.866033,
+    "speed_kmh": 0.36,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_8e0d04171767",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:27Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.188511,
+    "longitude": 72.820354,
+    "speed_kmh": 0.91,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_c14086881000",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:27Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.52023,
+    "longitude": 73.934812,
+    "speed_kmh": 16.51,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_b09a25f561ae",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:27Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_38339fa62c19",
+    "city": "Delhi",
+    "latitude": 28.774148,
+    "longitude": 76.998321,
+    "speed_kmh": 19.45,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_27379817140d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:27Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.932044,
+    "longitude": 77.667467,
+    "speed_kmh": 39.47,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_2330303675ec",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:33Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.92708,
+    "longitude": 72.865636,
+    "speed_kmh": 13.93,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_32a921f6ec6a",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:33Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.188588,
+    "longitude": 72.820183,
+    "speed_kmh": 5.92,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_c3cc7ab3d90a",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:33Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.519635,
+    "longitude": 73.935107,
+    "speed_kmh": 14.23,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_b9e52db7f94a",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:33Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_38339fa62c19",
+    "city": "Delhi",
+    "latitude": 28.759148,
+    "longitude": 77.013321,
+    "speed_kmh": 49.07,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_3fa05ff1e426",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:33Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.947044,
+    "longitude": 77.667776,
+    "speed_kmh": 37.21,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_742616fe06bf",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:39Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927671,
+    "longitude": 72.864925,
+    "speed_kmh": 10.39,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_207aa646af35",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:39Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.189447,
+    "longitude": 72.82015,
+    "speed_kmh": 12.95,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_cabadff4f5d0",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:39Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.520603,
+    "longitude": 73.934033,
+    "speed_kmh": 17.84,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_4213382ffb0f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:39Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_38339fa62c19",
+    "city": "Delhi",
+    "latitude": 28.744148,
+    "longitude": 77.01735,
+    "speed_kmh": 39.09,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_4c17c9e394b2",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:39Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 12.962044,
+    "longitude": 77.667776,
+    "speed_kmh": 42.85,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_8a6da09031f7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:45Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.92686,
+    "longitude": 72.863957,
+    "speed_kmh": 17.56,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_c54288edd5e7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:45Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.189193,
+    "longitude": 72.820587,
+    "speed_kmh": 23.82,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_fb76d8b161d7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:45Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.520359,
+    "longitude": 73.933266,
+    "speed_kmh": 11.55,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_0d80b88eeaa3",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:45Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_38339fa62c19",
+    "city": "Delhi",
+    "latitude": 28.729148,
+    "longitude": 77.01735,
+    "speed_kmh": 37.97,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_346df11d3013",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:45Z",
+    "driver_id": "driver_2005",
+    "ride_id": "ride_57c71dd540dd",
+    "city": "Bangalore",
+    "latitude": 13.01284,
+    "longitude": 77.667776,
+    "speed_kmh": 33.46,
+    "status": "on_trip"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_00ffab9dae14",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:51Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.926556,
+    "longitude": 72.864241,
+    "speed_kmh": 24.28,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_a6f2c2b69d3a",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:51Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.189669,
+    "longitude": 72.819769,
+    "speed_kmh": 21.99,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_dc2f346aaf3f",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:51Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.52052,
+    "longitude": 73.932206,
+    "speed_kmh": 3.78,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_2887dd0f22d7",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:51Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_38339fa62c19",
+    "city": "Delhi",
+    "latitude": 28.714148,
+    "longitude": 77.01735,
+    "speed_kmh": 28.41,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_4765c860f170",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:51Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 13.013413,
+    "longitude": 77.668205,
+    "speed_kmh": 9.65,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_37153a755636",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:57Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.927213,
+    "longitude": 72.86307,
+    "speed_kmh": 22.22,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_816e567776a1",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:57Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 19.188813,
+    "longitude": 72.819949,
+    "speed_kmh": 14.8,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_7d4d2a5a2798",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:57Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.519352,
+    "longitude": 73.933606,
+    "speed_kmh": 2.03,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_f680403d3b3d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:57Z",
+    "driver_id": "driver_2004",
+    "ride_id": "ride_38339fa62c19",
+    "city": "Delhi",
+    "latitude": 28.699148,
+    "longitude": 77.01735,
+    "speed_kmh": 13.56,
+    "status": "en_route"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_533dcc961f28",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T06:16:57Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 13.014941,
+    "longitude": 77.668195,
+    "speed_kmh": 15.45,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_7427a00311c3",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:38:48Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Hyderabad",
+    "latitude": 17.384453,
+    "longitude": 78.581969,
+    "speed_kmh": 0.8,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_6ab34f9d7dee",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:38:48Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.694954,
+    "longitude": 76.939461,
+    "speed_kmh": 26.14,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_bcac5980f057",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:38:48Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.742319,
+    "longitude": 77.000197,
+    "speed_kmh": 8.22,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_b6802aa4e282",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:38:48Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Hyderabad",
+    "latitude": 17.496057,
+    "longitude": 78.58369,
+    "speed_kmh": 9.76,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_4e8075c18c80",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:38:48Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.550483,
+    "longitude": 76.9002,
+    "speed_kmh": 16.03,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2001
+{
+    "event_id": "evt_d8ab22a02933",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:40:46Z",
+    "driver_id": "driver_2001",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.75888,
+    "longitude": 77.174444,
+    "speed_kmh": 1.37,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2002
+{
+    "event_id": "evt_90d4a3d9af4d",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:40:46Z",
+    "driver_id": "driver_2002",
+    "ride_id": null,
+    "city": "Delhi",
+    "latitude": 28.710295,
+    "longitude": 77.066604,
+    "speed_kmh": 24.07,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2003
+{
+    "event_id": "evt_6f17bb2ee6a2",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:40:46Z",
+    "driver_id": "driver_2003",
+    "ride_id": null,
+    "city": "Bangalore",
+    "latitude": 12.961746,
+    "longitude": 77.511687,
+    "speed_kmh": 0.97,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2004
+{
+    "event_id": "evt_fa07f073e1fe",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:40:46Z",
+    "driver_id": "driver_2004",
+    "ride_id": null,
+    "city": "Pune",
+    "latitude": 18.642471,
+    "longitude": 73.916555,
+    "speed_kmh": 20.23,
+    "status": "available"
+}
+
+DRIVER_LOCATION-driver_2005
+{
+    "event_id": "evt_ec20e3f35d96",
+    "event_type": "driver_location",
+    "event_timestamp": "2026-11-11T12:40:46Z",
+    "driver_id": "driver_2005",
+    "ride_id": null,
+    "city": "Mumbai",
+    "latitude": 18.971456,
+    "longitude": 72.769086,
+    "speed_kmh": 20.85,
+    "status": "available"
+}
+

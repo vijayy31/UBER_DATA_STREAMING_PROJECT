@@ -1,0 +1,523 @@
+RIDE_REQUESTED-ride_bc4e8800e277
+{
+    "event_id": "evt_dc0fd4fdf41f",
+    "event_type": "ride_requested",
+    "event_timestamp": "2026-11-12T05:00:28Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_bc4e8800e277",
+    "rider_id": "rider_1004",
+    "driver_id": null,
+    "service_type": "UberXL",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 19.175262,
+        "longitude": 72.922054
+    },
+    "dropoff": {
+        "latitude": 19.124131,
+        "longitude": 73.027801
+    },
+    "estimated_distance_km": 6.5,
+    "estimated_duration_minutes": 27,
+    "estimated_fare": 169.0,
+    "currency": "INR"
+}
+
+RIDE_REQUESTED-ride_86c414ca498e
+{
+    "event_id": "evt_0a20691733a4",
+    "event_type": "ride_requested",
+    "event_timestamp": "2026-11-12T05:00:58Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_86c414ca498e",
+    "rider_id": "rider_1005",
+    "driver_id": null,
+    "service_type": "UberXL",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 19.039854,
+        "longitude": 73.012396
+    },
+    "dropoff": {
+        "latitude": 18.983493,
+        "longitude": 72.975803
+    },
+    "estimated_distance_km": 14.14,
+    "estimated_duration_minutes": 15,
+    "estimated_fare": 221.4,
+    "currency": "INR"
+}
+
+DRIVER_ASSIGNED-ride_bc4e8800e277
+{
+    "event_id": "evt_267e6940a856",
+    "event_type": "driver_assigned",
+    "event_timestamp": "2026-11-12T05:00:58Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_bc4e8800e277",
+    "rider_id": "rider_1004",
+    "driver_id": "driver_2001",
+    "service_type": "UberXL",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 19.175262,
+        "longitude": 72.922054
+    },
+    "driver_distance_km": 0.47,
+    "estimated_arrival_minutes": 6,
+    "currency": "INR"
+}
+
+RIDE_REQUESTED-ride_7ad871828b44
+{
+    "event_id": "evt_1a2a03613ddc",
+    "event_type": "ride_requested",
+    "event_timestamp": "2026-11-12T05:01:28Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_7ad871828b44",
+    "rider_id": "rider_1001",
+    "driver_id": null,
+    "service_type": "UberX",
+    "city": "Pune",
+    "pickup": {
+        "latitude": 18.591738,
+        "longitude": 73.916337
+    },
+    "dropoff": {
+        "latitude": 18.623682,
+        "longitude": 73.825456
+    },
+    "estimated_distance_km": 6.6,
+    "estimated_duration_minutes": 24,
+    "estimated_fare": 164.0,
+    "currency": "INR"
+}
+
+DRIVER_ASSIGNED-ride_86c414ca498e
+{
+    "event_id": "evt_92daaa4fb0b7",
+    "event_type": "driver_assigned",
+    "event_timestamp": "2026-11-12T05:01:28Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_86c414ca498e",
+    "rider_id": "rider_1005",
+    "driver_id": "driver_2002",
+    "service_type": "UberXL",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 19.039854,
+        "longitude": 73.012396
+    },
+    "driver_distance_km": 15.47,
+    "estimated_arrival_minutes": 8,
+    "currency": "INR"
+}
+
+RIDE_REQUESTED-ride_97b0784176ef
+{
+    "event_id": "evt_981e4eb959da",
+    "event_type": "ride_requested",
+    "event_timestamp": "2026-11-12T05:01:53Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_97b0784176ef",
+    "rider_id": "rider_1002",
+    "driver_id": null,
+    "service_type": "UberX",
+    "city": "Pune",
+    "pickup": {
+        "latitude": 18.501804,
+        "longitude": 73.753436
+    },
+    "dropoff": {
+        "latitude": 18.596416,
+        "longitude": 73.90029
+    },
+    "estimated_distance_km": 15.71,
+    "estimated_duration_minutes": 11,
+    "estimated_fare": 229.1,
+    "currency": "INR"
+}
+
+DRIVER_ASSIGNED-ride_7ad871828b44
+{
+    "event_id": "evt_195d9c36f35c",
+    "event_type": "driver_assigned",
+    "event_timestamp": "2026-11-12T05:01:53Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_7ad871828b44",
+    "rider_id": "rider_1001",
+    "driver_id": "driver_2005",
+    "service_type": "UberX",
+    "city": "Pune",
+    "pickup": {
+        "latitude": 18.591738,
+        "longitude": 73.916337
+    },
+    "driver_distance_km": 6.22,
+    "estimated_arrival_minutes": 6,
+    "currency": "INR"
+}
+
+RIDE_REQUESTED-ride_2d8e2557c466
+{
+    "event_id": "evt_b98ce31d6f3c",
+    "event_type": "ride_requested",
+    "event_timestamp": "2026-11-12T05:02:23Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_2d8e2557c466",
+    "rider_id": "rider_1003",
+    "driver_id": null,
+    "service_type": "UberX",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 19.195643,
+        "longitude": 72.802671
+    },
+    "dropoff": {
+        "latitude": 19.189324,
+        "longitude": 72.890934
+    },
+    "estimated_distance_km": 18.31,
+    "estimated_duration_minutes": 18,
+    "estimated_fare": 269.1,
+    "currency": "INR"
+}
+
+RIDE_STARTED-ride_7ad871828b44
+{
+    "event_id": "evt_b7c60129fd51",
+    "event_type": "ride_started",
+    "event_timestamp": "2026-11-12T05:02:53Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_7ad871828b44",
+    "rider_id": "rider_1001",
+    "driver_id": "driver_2005",
+    "service_type": "UberX",
+    "city": "Pune",
+    "currency": "INR"
+}
+
+RIDE_STARTED-ride_bc4e8800e277
+{
+    "event_id": "evt_b8990589988f",
+    "event_type": "ride_started",
+    "event_timestamp": "2026-11-12T05:03:43Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_bc4e8800e277",
+    "rider_id": "rider_1004",
+    "driver_id": "driver_2001",
+    "service_type": "UberXL",
+    "city": "Mumbai",
+    "currency": "INR"
+}
+ 
+RIDE_STARTED-ride_86c414ca498e
+{
+    "event_id": "evt_edc66ca0b43f",
+    "event_type": "ride_started",
+    "event_timestamp": "2026-11-12T05:03:59Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_86c414ca498e",
+    "rider_id": "rider_1005",
+    "driver_id": "driver_2002",
+    "service_type": "UberXL",
+    "city": "Mumbai",
+    "currency": "INR"
+}
+
+RIDE_COMPLETED-ride_7ad871828b44
+{
+    "event_id": "evt_ddd9659b4ce8",
+    "event_type": "ride_completed",
+    "event_timestamp": "2026-11-12T05:04:24Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_7ad871828b44",
+    "rider_id": "rider_1001",
+    "driver_id": "driver_2005",
+    "service_type": "UberX",
+    "city": "Pune",
+    "actual_distance_km": 6.6,
+    "actual_duration_minutes": 24,
+    "final_fare": 164.0,
+    "currency": "INR"
+}
+
+DRIVER_ASSIGNED-ride_97b0784176ef
+{
+    "event_id": "evt_300795f7323a",
+    "event_type": "driver_assigned",
+    "event_timestamp": "2026-11-12T05:04:24Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_97b0784176ef",
+    "rider_id": "rider_1002",
+    "driver_id": "driver_2005",
+    "service_type": "UberX",
+    "city": "Pune",
+    "pickup": {
+        "latitude": 18.501804,
+        "longitude": 73.753436
+    },
+    "driver_distance_km": 7.6,
+    "estimated_arrival_minutes": 8,
+    "currency": "INR"
+}
+
+RIDE_COMPLETED-ride_86c414ca498e
+{
+    "event_id": "evt_fb791abac224",
+    "event_type": "ride_completed",
+    "event_timestamp": "2026-11-12T05:04:39Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_86c414ca498e",
+    "rider_id": "rider_1005",
+    "driver_id": "driver_2002",
+    "service_type": "UberXL",
+    "city": "Mumbai",
+    "actual_distance_km": 14.14,
+    "actual_duration_minutes": 15,
+    "final_fare": 221.4,
+    "currency": "INR"
+}
+
+DRIVER_ASSIGNED-ride_2d8e2557c466
+{
+    "event_id": "evt_870bc4ab2494",
+    "event_type": "driver_assigned",
+    "event_timestamp": "2026-11-12T05:04:39Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_2d8e2557c466",
+    "rider_id": "rider_1003",
+    "driver_id": "driver_2002",
+    "service_type": "UberX",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 19.195643,
+        "longitude": 72.802671
+    },
+    "driver_distance_km": 18.2,
+    "estimated_arrival_minutes": 6,
+    "currency": "INR"
+}
+
+PAYMENT_EVENT-ride_7ad871828b44
+{
+    "event_id": "evt_13ab9a86bee4",
+    "event_type": "payment_event",
+    "event_timestamp": "2026-11-12T05:04:49Z",
+    "event_version": 1,
+    "producer": "payment-service",
+    "ride_id": "ride_7ad871828b44",
+    "rider_id": "rider_1001",
+    "driver_id": "driver_2005",
+    "city": "Pune",
+    "payment_id": "payment_cdd7e873eb06",
+    "amount": 164.0,
+    "currency": "INR",
+    "payment_method": "CARD",
+    "payment_status": "Paid"
+}
+
+RIDE_REQUESTED-ride_3bd5ffa30b30
+{
+    "event_id": "evt_5a20bb2ce788",
+    "event_type": "ride_requested",
+    "event_timestamp": "2026-11-12T05:04:54Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_3bd5ffa30b30",
+    "rider_id": "rider_1001",
+    "driver_id": null,
+    "service_type": "UberX",
+    "city": "Hyderabad",
+    "pickup": {
+        "latitude": 17.328337,
+        "longitude": 78.391833
+    },
+    "dropoff": {
+        "latitude": 17.301931,
+        "longitude": 78.324999
+    },
+    "estimated_distance_km": 3.1,
+    "estimated_duration_minutes": 14,
+    "estimated_fare": 109.0,
+    "currency": "INR"
+}
+
+PAYMENT_EVENT-ride_86c414ca498e
+{
+    "event_id": "evt_c07eb44c7617",
+    "event_type": "payment_event",
+    "event_timestamp": "2026-11-12T05:05:04Z",
+    "event_version": 1,
+    "producer": "payment-service",
+    "ride_id": "ride_86c414ca498e",
+    "rider_id": "rider_1005",
+    "driver_id": "driver_2002",
+    "city": "Mumbai",
+    "payment_id": "payment_aa56d4a3b945",
+    "amount": 221.4,
+    "currency": "INR",
+    "payment_method": "CARD",
+    "payment_status": "Paid"
+}
+
+RIDE_REQUESTED-ride_beb64322e67e
+{
+    "event_id": "evt_6b3e2dc19d96",
+    "event_type": "ride_requested",
+    "event_timestamp": "2026-11-12T05:05:14Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_beb64322e67e",
+    "rider_id": "rider_1005",
+    "driver_id": null,
+    "service_type": "UberX",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 19.077388,
+        "longitude": 72.932762
+    },
+    "dropoff": {
+        "latitude": 19.106553,
+        "longitude": 72.946628
+    },
+    "estimated_distance_km": 16.68,
+    "estimated_duration_minutes": 13,
+    "estimated_fare": 242.8,
+    "currency": "INR"
+}
+
+DRIVER_ASSIGNED-ride_3bd5ffa30b30
+{
+    "event_id": "evt_ebe6756c37ca",
+    "event_type": "driver_assigned",
+    "event_timestamp": "2026-11-12T05:05:19Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_3bd5ffa30b30",
+    "rider_id": "rider_1001",
+    "driver_id": "driver_2004",
+    "service_type": "UberX",
+    "city": "Hyderabad",
+    "pickup": {
+        "latitude": 17.328337,
+        "longitude": 78.391833
+    },
+    "driver_distance_km": 19.83,
+    "estimated_arrival_minutes": 6,
+    "currency": "INR"
+}
+
+RIDE_COMPLETED-ride_bc4e8800e277
+{
+    "event_id": "evt_feb142112d5c",
+    "event_type": "ride_completed",
+    "event_timestamp": "2026-11-12T05:05:29Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_bc4e8800e277",
+    "rider_id": "rider_1004",
+    "driver_id": "driver_2001",
+    "service_type": "UberXL",
+    "city": "Mumbai",
+    "actual_distance_km": 6.5,
+    "actual_duration_minutes": 27,
+    "final_fare": 169.0,
+    "currency": "INR"
+}
+
+RIDE_STARTED-ride_97b0784176ef
+{
+    "event_id": "evt_ce874ac1d78d",
+    "event_type": "ride_started",
+    "event_timestamp": "2026-11-12T05:05:39Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_97b0784176ef",
+    "rider_id": "rider_1002",
+    "driver_id": "driver_2005",
+    "service_type": "UberX",
+    "city": "Pune",
+    "currency": "INR"
+}
+
+DRIVER_ASSIGNED-ride_beb64322e67e
+{
+    "event_id": "evt_361810798854",
+    "event_type": "driver_assigned",
+    "event_timestamp": "2026-11-12T05:05:44Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_beb64322e67e",
+    "rider_id": "rider_1005",
+    "driver_id": "driver_2001",
+    "service_type": "UberX",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 19.077388,
+        "longitude": 72.932762
+    },
+    "driver_distance_km": 9.87,
+    "estimated_arrival_minutes": 9,
+    "currency": "INR"
+}
+
+PAYMENT_EVENT-ride_bc4e8800e277
+{
+    "event_id": "evt_f9aef51bc9d3",
+    "event_type": "payment_event",
+    "event_timestamp": "2026-11-12T05:05:59Z",
+    "event_version": 1,
+    "producer": "payment-service",
+    "ride_id": "ride_bc4e8800e277",
+    "rider_id": "rider_1004",
+    "driver_id": "driver_2001",
+    "city": "Mumbai",
+    "payment_id": "payment_7693ac744ebb",
+    "amount": 169.0,
+    "currency": "INR",
+    "payment_method": "UPI",
+    "payment_status": "Paid"
+}
+
+RIDE_REQUESTED-ride_d733703cb887
+{
+    "event_id": "evt_49fbe7bea4bc",
+    "event_type": "ride_requested",
+    "event_timestamp": "2026-11-12T05:06:04Z",
+    "event_version": 1,
+    "producer": "ride-service",
+    "ride_id": "ride_d733703cb887",
+    "rider_id": "rider_1004",
+    "driver_id": null,
+    "service_type": "UberGo",
+    "city": "Mumbai",
+    "pickup": {
+        "latitude": 18.912686,
+        "longitude": 72.984092
+    },
+    "dropoff": {
+        "latitude": 18.99032,
+        "longitude": 72.828981
+    },
+    "estimated_distance_km": 3.37,
+    "estimated_duration_minutes": 21,
+    "estimated_fare": 125.7,
+    "currency": "INR"
+}
+
