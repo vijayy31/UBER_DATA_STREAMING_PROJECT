@@ -43,7 +43,7 @@ def kafka_consumer():
             key = msg.key().decode('utf-8') if msg.key() else None
             value = json.loads(msg.value().decode('utf-8'))
 
-            upload_to_s3(s3_client=s3_client, event=value, parent_folder="test")
+            upload_to_s3(s3_client=s3_client, event=value, parent_folder="bronze")
             print(f"Received -> Key: {key} Partition: {msg.partition()} | Offset: {msg.offset()}")
 
     except KeyboardInterrupt:
