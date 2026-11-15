@@ -42,6 +42,7 @@ Amazon S3 object storage
 - Python 3.12+
 - Confluent Kafka client
 - boto3 for AWS S3
+- Databricks / PySpark for Lakehouse transformations
 - python-dotenv for environment configuration
 - Docker Compose for Kafka brokers
 - uv for dependency management
@@ -57,6 +58,23 @@ Amazon S3 object storage
 ├── docker-commands.txt
 ├── pyproject.toml
 ├── uv.lock
+├── databricks_pipeline/
+│   └── Uber Project/
+│       ├── UBER_BRONZE_PIPELINE/
+│       │   └── transformations/
+│       │       └── 01_Bronze_Ingestion.py
+│       ├── UBER_SILVER_PIPELINE/
+│       │   ├── transformations/
+│       │   │   ├── ride_processing.py
+│       │   │   └── payment_processing.py
+│       │   └── utilities/
+│       │       ├── common.py
+│       │       ├── ride_params.py
+│       │       └── payment_params.py
+│       └── UBER_GOLD_PIPELINE/
+│           └── transformations/
+│               ├── gold_ride_summary.sql
+│               └── gold_payment_summary.sql
 ├── src/
 │   └── uber_de_project/
 │       ├── __init__.py
@@ -82,6 +100,86 @@ Amazon S3 object storage
 │               └── utils.py
 └── test.py
 ```
+
+## Databricks pipeline overview
+
+The repository also includes a Databricks Lakehouse pipeline under `databricks_pipeline/Uber Project/`. It follows a bronze-silver-gold medallion pattern and is designed to transform the simulated ride events from raw S3/object storage into curated business-ready tables.
+
+### Bronze layer
+
+The bronze ingestion job is defined in `databricks_pipeline/Uber Project/UBER_BRONZE_PIPELINE/transformations/)1_Bronze_Ingestion.py`.
+
+It:
+
+- reads raw binary files from S3 under the bronze bucket (`s3://uber-project-31/bronze`)
+- loads files using Databricks `cloudFiles` with the `binaryFile` source
+- extracts `raw_payload`, `source_file`, file metadata, and ingestion timestamp
+- exposes tables such as:
+  - `bronze_ride_events`
+  - `bronze_payment_events`
+
+This is the ingestion stage where raw event files are captured as-is before validation and normalization.
+
+### Silver layer
+
+The silver transformations live in:
+
+- `databricks_pipeline/Uber Project/UBER_SILVER_PIPELINE/transformations/ride_processing.py`
+- `databricks_pipeline/Uber Project/UBER_SILVER_PIPELINE/transformations/payment_processing.py`
+
+These jobs:
+
+- read from the bronze tables using streaming reads (`spark.readStream.table(...)`)
+- parse JSON payloads using typed schemas
+- flatten nested structures such as `pickup` and `dropoff`
+- normalize key fields like `event_type`, `city`, `currency`, `driver_id`, and timestamps
+- validate rows against business rules and attach `validation_status` and `validation_errors`
+- split valid rows to the silver tables and invalid rows into quarantine tables
+
+The reusable validation metadata is centralized in:
+
+- `UBER_SILVER_PIPELINE/utilities/common.py`
+- `UBER_SILVER_PIPELINE/utilities/ride_params.py`
+- `UBER_SILVER_PIPELINE/utilities/payment_params.py`
+
+These files define:
+
+- the expected schemas for ride and payment event payloads
+- allowed event types
+- mandatory field validations
+- domain rules for ride lifecycle events, payment fields, cancellation conditions, and distance/fare checks
+
+### Gold layer
+
+The gold datasets are built with SQL in:
+
+- `databricks_pipeline/Uber Project/UBER_GOLD_PIPELINE/transformations/gold_ride_summary.sql`
+- `databricks_pipeline/Uber Project/UBER_GOLD_PIPELINE/transformations/gold_payment_summary.sql`
+
+These create materialized summary views for analytics and reporting:
+
+- `gold_ride_summary`: summarizes each ride by request, assignment, start, completion, cancellation status, and timing metrics like driver assignment delay and trip duration
+- `gold_payment_summary`: exposes payment-level metadata such as payment timestamp, amount, method, currency, and payment status
+
+### Databricks pipeline flow
+
+```text
+Raw S3 files
+   |
+   v
+Bronze ingestion
+   |
+   v
+Silver validation + normalization
+   |
+   v
+Quarantine invalid rows
+   |
+   v
+Gold summary tables
+```
+
+This pipeline complements the local Python/Kafka/S3 prototype by showing how the same event data can be processed in a Lakehouse environment with medallion architecture and SQL-based analytics.
 
 ## Key modules
 
